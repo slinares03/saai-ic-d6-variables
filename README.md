@@ -33,3 +33,12 @@ So far everything we have been logging to the console is of the `string` datatyp
 ![example_5](./assets/code_examples/example_5.png)
 
 [ ] Try creating some more on your own to describe yourself. This one is more open ended to let you get some practice writing variables and using different datatypes. Some common examples: name, age, location, occupation, etc
+
+---
+
+### Solution codebase 👀
+🛑 **Only use this as a reference** 🛑
+
+💾 **Not something to copy and paste** 💾
+
+**Note:**  This lab references a solution file located [here](https://github.com/HackerUSA-CE/saai-ic-d6-variables/tree/solution).

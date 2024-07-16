@@ -1,4 +1,4 @@
-# JavaCcript Variables and Datatypes
+# JavaScript Variables and Datatypes
 
 ## Description 📄
 Time to practice creating and using JavaScript variables and working with different datatypes. We will primarily be interacting with the console in the dev tools via the browser.

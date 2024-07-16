@@ -1,7 +1,7 @@
-# Javascript Variables and Datatypes
+# JavaCcript Variables and Datatypes
 
 ## Description 📄
-Time to practice creating and using javascript variables and working with different datatypes. We will primarily be interacting with the console in the dev tools via the browser.
+Time to practice creating and using JavaScript variables and working with different datatypes. We will primarily be interacting with the console in the dev tools via the browser.
 
 Note: All work in this lab will be done in the `script.js` file. The HTML exists only to link the Javascript file so we can use the browser console. 
 

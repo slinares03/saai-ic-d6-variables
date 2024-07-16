@@ -8,6 +8,8 @@ Note: All work in this lab will be done in the `script.js` file. The HTML exists
 ## ToDo list ✅
 **Attention**: When you complete a task, put an `x` in the middle of the brackets to mark it off your ToDo list.
 
+[ ] In the root folder, add a `script.js` file. It is already linked to your `index.html`. 
+
 [ ] Open the browser console and navigate to the console. It should look like this:
 
 ![example_1](./assets/code_examples/example_1.png)

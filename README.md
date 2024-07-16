@@ -16,13 +16,13 @@ Note: All work in this lab will be done in the `script.js` file. The HTML exists
 
 ![example_2](./assets/code_examples/example_2.png)
 
-Congrats! You've just written your first Javascript code. As we can see the browser console can be used to display information. We can write our Javascript code in `script.js` and it will execute when we refresh the browser.
+Congrats! You've just written your first JavaScript code. As we can see the browser console can be used to display information. We can write our Javascript code in `script.js` and it will execute when we refresh the browser.
 
-[ ] Now write `console.log('hello')`. Refresh the page and you should see the word hello underneath start. Javascript files execute top to bottom.
+[ ] Now write `console.log('hello')`. Refresh the page and you should see the word hello underneath start. JavaScript files execute top to bottom.
 
 ![example_3](./assets/code_examples/example_3.png)
 
-So far everything we have been logging to the console is of the `string` datatype. Remember that strings are a sequence of characters representing letters and words. In Javascript we use single quotes `''` or double quotes for strings `""`. Functionally there is no difference between them.
+So far everything we have been logging to the console is of the `string` datatype. Remember that strings are a sequence of characters representing letters and words. In JavaScript we use single quotes `''` or double quotes for strings `""`. Functionally there is no difference between them.
 
 [ ] Now try to log out the word `animal` but omit the quotes, `console.log(animal)`. Refresh the page. What happened? You got a `referenceError` in that the variable `animal` is not defined. The quotes are important in distinguishing between a value and a variable in this case. Add quotes around the word `animal` and refresh.
 

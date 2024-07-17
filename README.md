@@ -30,7 +30,7 @@ So far everything we have been logging to the console is of the `string` datatyp
 
 ![example_4](./assets/code_examples/example_4.png)
 
-[ ] Time to create some variables and give them values. Type the below in and refresh the page. You should see the word dog in the browser console.
+[ ] Time to create some variables and give them values. Type the code below in the `script.js` file and refresh the web page. You should see the word dog in the browser console.
 
 ![example_5](./assets/code_examples/example_5.png)
 
